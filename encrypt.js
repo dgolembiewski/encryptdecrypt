@@ -1,3 +1,4 @@
+//encrypt
 const crypto = require('crypto');
 algorithm = '';
 password = '';
